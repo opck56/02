@@ -1,0 +1,16 @@
+D:\WpfApp1\VIN_LIB\bin\Debug\netstandard2.0\VIN_LIB.deps.json
+D:\WpfApp1\VIN_LIB\bin\Debug\netstandard2.0\VIN_LIB.dll
+D:\WpfApp1\VIN_LIB\bin\Debug\netstandard2.0\VIN_LIB.pdb
+D:\WpfApp1\VIN_LIB\obj\Debug\netstandard2.0\VIN_LIB.csprojAssemblyReference.cache
+D:\WpfApp1\VIN_LIB\obj\Debug\netstandard2.0\VIN_LIB.AssemblyInfoInputs.cache
+D:\WpfApp1\VIN_LIB\obj\Debug\netstandard2.0\VIN_LIB.AssemblyInfo.cs
+D:\WpfApp1\VIN_LIB\obj\Debug\netstandard2.0\VIN_LIB.dll
+D:\WpfApp1\VIN_LIB\obj\Debug\netstandard2.0\VIN_LIB.pdb
+L:\WpfApp1\VIN_LIB\bin\Debug\netstandard2.0\VIN_LIB.deps.json
+L:\WpfApp1\VIN_LIB\bin\Debug\netstandard2.0\VIN_LIB.dll
+L:\WpfApp1\VIN_LIB\bin\Debug\netstandard2.0\VIN_LIB.pdb
+L:\WpfApp1\VIN_LIB\obj\Debug\netstandard2.0\VIN_LIB.csprojAssemblyReference.cache
+L:\WpfApp1\VIN_LIB\obj\Debug\netstandard2.0\VIN_LIB.AssemblyInfoInputs.cache
+L:\WpfApp1\VIN_LIB\obj\Debug\netstandard2.0\VIN_LIB.AssemblyInfo.cs
+L:\WpfApp1\VIN_LIB\obj\Debug\netstandard2.0\VIN_LIB.dll
+L:\WpfApp1\VIN_LIB\obj\Debug\netstandard2.0\VIN_LIB.pdb

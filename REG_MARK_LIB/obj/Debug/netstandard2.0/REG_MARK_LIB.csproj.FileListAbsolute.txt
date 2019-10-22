@@ -1,0 +1,16 @@
+D:\WpfApp1\REG_MARK_LIB\bin\Debug\netstandard2.0\REG_MARK_LIB.deps.json
+D:\WpfApp1\REG_MARK_LIB\bin\Debug\netstandard2.0\REG_MARK_LIB.dll
+D:\WpfApp1\REG_MARK_LIB\bin\Debug\netstandard2.0\REG_MARK_LIB.pdb
+D:\WpfApp1\REG_MARK_LIB\obj\Debug\netstandard2.0\REG_MARK_LIB.csprojAssemblyReference.cache
+D:\WpfApp1\REG_MARK_LIB\obj\Debug\netstandard2.0\REG_MARK_LIB.AssemblyInfoInputs.cache
+D:\WpfApp1\REG_MARK_LIB\obj\Debug\netstandard2.0\REG_MARK_LIB.AssemblyInfo.cs
+D:\WpfApp1\REG_MARK_LIB\obj\Debug\netstandard2.0\REG_MARK_LIB.dll
+D:\WpfApp1\REG_MARK_LIB\obj\Debug\netstandard2.0\REG_MARK_LIB.pdb
+L:\WpfApp1\REG_MARK_LIB\bin\Debug\netstandard2.0\REG_MARK_LIB.deps.json
+L:\WpfApp1\REG_MARK_LIB\bin\Debug\netstandard2.0\REG_MARK_LIB.dll
+L:\WpfApp1\REG_MARK_LIB\bin\Debug\netstandard2.0\REG_MARK_LIB.pdb
+L:\WpfApp1\REG_MARK_LIB\obj\Debug\netstandard2.0\REG_MARK_LIB.csprojAssemblyReference.cache
+L:\WpfApp1\REG_MARK_LIB\obj\Debug\netstandard2.0\REG_MARK_LIB.AssemblyInfoInputs.cache
+L:\WpfApp1\REG_MARK_LIB\obj\Debug\netstandard2.0\REG_MARK_LIB.AssemblyInfo.cs
+L:\WpfApp1\REG_MARK_LIB\obj\Debug\netstandard2.0\REG_MARK_LIB.dll
+L:\WpfApp1\REG_MARK_LIB\obj\Debug\netstandard2.0\REG_MARK_LIB.pdb
