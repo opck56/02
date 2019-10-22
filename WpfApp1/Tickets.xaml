@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfApp1.Tickets"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Tickets" Height="450" Width="800" Loaded="Window_Loaded" Closed="Window_Closed" WindowStartupLocation="CenterScreen" Background="#FFE0A9AF">
+    <Grid>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="166" Margin="458,201,0,0" VerticalAlignment="Top" Width="319"  RenderTransformOrigin="-1.05,-0.32"/>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Height="293" Margin="10,10,0,0" VerticalAlignment="Top" Width="448" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="MiddleName" Binding="{Binding MiddleName}"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding description}"/>
+                <DataGridTextColumn Header="Summa" Binding="{Binding summa}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="button" Content="Показать фотографию происшествия" HorizontalAlignment="Left" Margin="239,308,0,0" VerticalAlignment="Top" Width="219" Click="Button_Click" Background="#FFB5D5CA"/>
+        <Button x:Name="button1" Content="Показать видео происшествия" HorizontalAlignment="Left" Margin="10,308,0,0" VerticalAlignment="Top" Width="181" Click="Button1_Click" Background="#FFB5D5CA"/>
+        <MediaElement x:Name="mediaElement" HorizontalAlignment="Left" Height="191" Margin="458,10,0,0" VerticalAlignment="Top" Width="319"/>
+    </Grid>
+</Window>

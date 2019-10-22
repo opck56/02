@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="291.549" Width="274.849" Loaded="Window_Loaded" Closed="Window_Closed" Background="#FFE0A9AF" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label x:Name="label" Content="Login" HorizontalAlignment="Left" Margin="22,97,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Password" HorizontalAlignment="Left" Margin="22,141,0,0" VerticalAlignment="Top" Height="28"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="28" Margin="118,97,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Height="28" Margin="118,141,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Login" HorizontalAlignment="Left" Margin="22,207,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Background="#FFB5D5CA"/>
+        <Button x:Name="button1" Content="Exit" HorizontalAlignment="Left" Margin="150,207,0,0" VerticalAlignment="Top" Width="75" Click="Button1_Click" Background="#FFB5D5CA"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="92" Margin="87,0,0,0" VerticalAlignment="Top" Width="94" Source="img/gibdd.png"/>
+        <Label x:Name="label3" Content="" HorizontalAlignment="Left" Margin="118,229,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4"  Content="" HorizontalAlignment="Left" Margin="168,234,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="" HorizontalAlignment="Left" Margin="61,234,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

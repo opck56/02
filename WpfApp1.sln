@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{2D816CB5-9EFC-46F4-9BF4-9B8AB95E923D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VIN_LIB", "VIN_LIB\VIN_LIB.csproj", "{D47D803E-C8DE-4C3B-8534-0E2EB8ED3F24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REG_MARK_LIB", "REG_MARK_LIB\REG_MARK_LIB.csproj", "{61A54FDB-52EA-426C-9520-641BA71584D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D816CB5-9EFC-46F4-9BF4-9B8AB95E923D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D816CB5-9EFC-46F4-9BF4-9B8AB95E923D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D816CB5-9EFC-46F4-9BF4-9B8AB95E923D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D816CB5-9EFC-46F4-9BF4-9B8AB95E923D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47D803E-C8DE-4C3B-8534-0E2EB8ED3F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47D803E-C8DE-4C3B-8534-0E2EB8ED3F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47D803E-C8DE-4C3B-8534-0E2EB8ED3F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47D803E-C8DE-4C3B-8534-0E2EB8ED3F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61A54FDB-52EA-426C-9520-641BA71584D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61A54FDB-52EA-426C-9520-641BA71584D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61A54FDB-52EA-426C-9520-641BA71584D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61A54FDB-52EA-426C-9520-641BA71584D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31FC4C46-A5DC-411A-AD22-6E12BD828386}
+	EndGlobalSection
+EndGlobal
